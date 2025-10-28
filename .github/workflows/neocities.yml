@@ -28,8 +28,8 @@ jobs:
 
     # Gera o site na pasta _site
     - name: Build Jekyll site
-      run: bundle exec jekyll build
-      env:
+    run: bundle exec jekyll build
+    env:
         JEKYLL_ENV: production
 
     # Prepara a pasta public para o deploy
