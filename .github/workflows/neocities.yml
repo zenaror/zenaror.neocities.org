@@ -1,44 +1,46 @@
-name: Deploy to neocities
+name: Deploy Jekyll to Neocities
 
 on:
   push:
     branches:
       - main
 
-concurrency:
-  group: deploy-to-neocities
-  cancel-in-progress: true
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # The checkout step copies your repo into the action runner. Important!
+      # Pega o código
       - uses: actions/checkout@v4
 
-      # Instala Jekyll e dependências
+      # Configura Ruby corretamente (evita problemas de permissão)
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+
+      # Instala Bundler e dependências do Jekyll
       - name: Install Jekyll dependencies
         run: |
-          gem install bundler --user-install
+          gem install bundler
           export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"
           bundle install
 
-      # Gera o site na pasta _site
+      # Build do site
       - name: Build Jekyll site
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      # Prepara a pasta public para o deploy
+      # Prepara a pasta public para deploy
       - name: Prepare public folder
         run: |
           rm -rf public
           mkdir public
           cp -r _site/* public/
 
-      # When the dist_dir is ready, deploy it to neocities
-      - name: Deploy to neocities
+      # Deploy para Neocities
+      - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v3
         with:
           api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
