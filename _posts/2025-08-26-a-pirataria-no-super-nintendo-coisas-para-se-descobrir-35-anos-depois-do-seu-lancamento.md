@@ -18,13 +18,13 @@ Mas vamos lá, tudo começou quando minha esposa pediu para jogar Super Mario Wo
 Então testei outras fitas, vai que eu tinha feito alguma caca na hora do recap e... todas as minhas outras fitas funcionaram! Então fui abrir o cartucho do Super Mario para ver se tinha algum dano nele, como uma trilha rompida, um capacitor vazado, sei lá.
 
 {:style="text-align:center;"}
-[![](chatgpt-1756038171114-thumb.jpg)](chatgpt-1756038171114.jpg)
+<a href="chatgpt-1756038171114.jpg" target="_blank"><img src="chatgpt-1756038171114-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Parte da frentedo cartucho</font></sup>
 
 {:style="text-align:center;"}
-[![](chatgpt-1756038159291-thumb.jpg)](chatgpt-1756038159291.jpg)
+<a href="chatgpt-1756038159291.jpg" target="_blank"><img src="chatgpt-1756038159291-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Parte de trás do cartucho</font></sup>
@@ -43,7 +43,7 @@ Então abri meu console e olhei... e olhei... e olhei... e não achei nada suspe
 Foi ai que mudei minha pesquisa e comecei a pesquisar sobre como era feito o desbloqueio do SNES e de modificados daquela época. Até que me deparei com esse tópico no Reddit, que [tinha uma particularidade muito semelhante](https://www.reddit.com/r/retrogaming/comments/j9qtsb/hi_so_i_have_this_snes_snscpugpm02_the_video/), o chip do CIC do console tinha EXATAMENTE a mesma "marca" que o meu, que [pode ser vista nessa foto](https://github.com/zenaror/Anotacoes-Consoles-Retro/tree/main/Nintendo/Super%20Nintendo) que tirei quando abri o console pela primeira vez.
 
 {:style="text-align:center;"}
-[![](screenshot-20250825-135415-firefox-thumb.jpg)](screenshot-20250825-135415-firefox.jpg)
+<a href="screenshot-20250825-135415-firefox.jpg" target="_blank"><img src="screenshot-20250825-135415-firefox-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Zoom do chip CIC do meu console antes do recap, notem que ele tem a mesma "marca", circulada em azul, do chip da postagem do Reddit</font></sup>
@@ -57,7 +57,7 @@ O fato do console ter o chip CIC desabilitado, permitia que qualquer jogo rodass
 E qual o problema nisso? Sinceramente nenhum, em partes... até a Nintendo começar a lançar chips, como o S-DD1 e SA1,  que verificavam a presença desse bendito (aliás isso foi o que melhorou a trava de segurança do N64). Tudo bem que não são muitos jogos que realmente faziam isso, meu Super Mario Kart usa o DSP-1 e ele roda normalmente. Porém vai lá tentar comprar um "Super Mario RPG" para ver se você vai conseguir jogar. Provavelmente hoje, na era dos "Everdrive" isso não importe muito, mas para alguém que coleciona ou quer jogar da fita original, isso pode ser um problemão!
 
 {:style="text-align:center;"}
-[![](fx-thumb.jpg)](fx.jpg)
+<a href="fx.jpg" target="_blank"><img src="fx-thumb.jpg" alt=""></a>
 
 
 {:style="text-align:center;"}
@@ -73,7 +73,7 @@ Então utilizei meu último recurso, tentar desbastar o encapsulamento bem onde 
 com muito cuidado para não danificar nada por dentro e nem tirar mais do que eu deveria. Então depois de uma meia hora, finalmente consegui um pouquinho mais de área de contato. Então passei mais algumas horas para tentar fazer a ponte, até que finalmente consegui 😍
 
 {:style="text-align:center;"}
-[![](20250826-104753-thumb.jpg)](20250826-104753.jpg)
+<a href="20250826-104753.jpg" target="_blank"><img src="20250826-104753-thumb.jpg" alt=""></a>
 
 
 {:style="text-align:center;"}

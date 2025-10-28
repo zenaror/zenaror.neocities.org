@@ -12,7 +12,7 @@ Olá novamente!
 Hoje vim compartilhar um pouco da experiência que tive de fazer uma manutenção preventiva em um dos meus primeiros videogame que tive: um Super Nintendo (sim, aquele quadradão cinza/branco)
 
 {:style="text-align:center;"}
-[![](20250822-092211-thumb.jpg)](20250822-092211.jpg)
+<a href="20250822-092211.jpg" target="_blank"><img src="20250822-092211-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Por mais que tenha se passado anos, ele até que está bem conservado.</font></sup>
@@ -26,7 +26,7 @@ Mas por qual motivo isso importa? Bem... mesmo que seja de coleção, gosto de t
 Mas voltando ao SNES. Junto com a desmontagem, aproveitei para começar a fazer o máximo de documentação possível, no qual caso tenha interesse só [**CLICAR AQUI**](https://github.com/zenaror/Anotacoes-Consoles-Retro), coisa que comecei recente. E após alguns parafusos, eis que chegamos a placa principal do console!
 
 {:style="text-align:center;"}
-[![](img-2609-thumb.jpg)](img-2609.jpg)
+<a href="img-2609.jpg" target="_blank"><img src="img-2609-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Eis a "placa-mãe" do console.</font></sup>
@@ -43,7 +43,7 @@ Para quem tiver interesse, deixo abaixo um vídeo do Tito (Macho Nacho Productio
 Mas bem, após algum tempo, eis o resultado! Placa sem nenhum capacitor:
 
 {:style="text-align:center;"}
-[![](img-20250819-wa0003-thumb.jpg)](img-20250819-wa0003.jpg)
+<a href="img-20250819-wa0003.jpg" target="_blank"><img src="img-20250819-wa0003-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Depois de meia hora, finalmente tirei tudo!</font></sup>
@@ -55,7 +55,7 @@ A adaptação para soldar aqui não tem muito segredo, é dobrar as perninhas, c
 Então, após quase uma hora para tentar deixar tudo bonitinho, eis que finalmente finalizei! ❤️
 
 {:style="text-align:center;"}
-[![](20250820-202411-thumb.jpg)](20250820-202411.jpg)
+<a href="20250820-202411.jpg" target="_blank"><img src="20250820-202411-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Aprovei o trabalho para trocar a placa traseira do conector de energia que estava quebrada</font></sup>
@@ -75,7 +75,7 @@ Então o desespero começou a bater 😰! A solda estava certa, nenhum capacitor
 Então consegui fazer uma "sonda" semelhante a dele para conseguir ouvir o som direto do circuito, e realmente eu estava com exatamente o mesmo diagnostico dele! O problema? Um chipzinho na marcação U10. Esse carinha é responsável por mixar e fazer um "pós-processamento" do som para enviar para a saída da TV.
 
 {:style="text-align:center;"}
-[![](20250822-100700-thumb.jpg)](20250822-100700.jpg)
+<a href="20250822-100700.jpg" target="_blank"><img src="20250822-100700-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">"Technolooooooghia"</font></sup>
@@ -85,7 +85,7 @@ Por sorte, esse chipzinho ainda é fabricado (o LM324) e é bem baratinho, um ki
 Ainda pronto, já bate aquele gelo na barriga e tristeza imaginando o tamanho da minha burrice e pensando "Porquê raios fui inventar de fazer essa porcaria!? 😡". Então junto com o desespero veio a busca por fóruns/reddit/discord para tentar buscar ajuda para solucionar o problema. E no dia seguinte, um abençoado no [REDDIT](https://www.reddit.com/r/consolerepair/comments/1mvv2fq/full_snes_recap_but_no_sound_after_that/) me veio com uma possível solução, lembram do capacitor C61 que eu arranquei a trilha dele sem querer? Pois é... na verdade eram 2 TRILHAS que ele era ligado!
 
 {:style="text-align:center;"}
-[![](full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1-thumb.jpg)](full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1.jpg)
+<a href="full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1.jpg" target="_blank"><img src="full-snes-recap-but-no-sound-after-that-sns-cpu-gpm-02-v0-wlhk6fxrqakf1-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Como podem ver, esse pequeno e minúsculo também estava ligado no mesmo PAD que eu arranquei!</font></sup>
@@ -94,7 +94,7 @@ Então imediatamente fui ver com uma lupa/microscópio digital e... não que é 
 então peguei e fiz um pequeno jumperzinho, testei e.... BAM! OLHA AI O SOM NOVAMENTE! ❤️
 
 {:style="text-align:center;"}
-[![](20250821-081524-thumb.jpg)](20250821-081524.jpg)
+<a href="20250821-081524.jpg" target="_blank"><img src="20250821-081524-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Foto final com o novo jumper e de quebra o novo amplificador LM324</font></sup>

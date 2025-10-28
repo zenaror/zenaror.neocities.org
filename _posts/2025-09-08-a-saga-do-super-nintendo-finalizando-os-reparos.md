@@ -20,7 +20,7 @@ E aqui estamos, a ideia hoje é mais comentar o que fiz, o que não fiz, dores d
 Para começar, precisei ir as compras e pegar algumas coisinhas que eu não tinha, como uma "máscara UV", para agir como uma espécie de cola/proteção para os fios que serviriam de jumper, uma lanterninha de luz UV para secar a resina e fio de cobre esmaltado (esse fio é bem legal, pois ele possui naturalmente uma camada de proteção, sendo necessário raspar um pouco o fio para remover essa proteção e poder soldar ele).
 
 {:style="text-align:center;"}
-[![](20250908-091733-thumb.jpg)](20250908-091733.jpg)
+<a href="20250908-091733.jpg" target="_blank"><img src="20250908-091733-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Isso aqui é tipo a "caixinha de primeiro socorros" da eletrônica😅.</font></sup>
@@ -36,7 +36,7 @@ Então, após algumas soldas (e por incrível que pareça, soldar o fio novament
 Mas antes de mostrar o resultado queria compartilhar uma coisa... esse logo da máscara, parece ou não o meme do "Handsome Man"? 🤣🤣
 
 {:style="text-align:center;"}
-[![](ad99f6f0-4e8e-4fd4-8f0b-4133f979fdc1-thumb.jpg)](ad99f6f0-4e8e-4fd4-8f0b-4133f979fdc1.jpg)
+<a href="ad99f6f0-4e8e-4fd4-8f0b-4133f979fdc1.jpg" target="_blank"><img src="ad99f6f0-4e8e-4fd4-8f0b-4133f979fdc1-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Não sei se isso foi intencional ou não, mas que lembra, lembra🤣.</font></sup>
@@ -44,25 +44,25 @@ Mas antes de mostrar o resultado queria compartilhar uma coisa... esse logo da m
 Brincadeiras a parte, eis aqui o primeiro reparo! Admito que não sei usar essa máscara direito ainda, mas ela realmente está segurando bem o fio.
 
 {:style="text-align:center;"}
-[![](20250906-193214-thumb.jpg)](20250906-193214.jpg)
+<a href="20250906-193214.jpg" target="_blank"><img src="20250906-193214-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Aqui só uma visão geral do que foi feito. Coloquei a máscara com a ajuda de um palito de dente, dando leves toques, e sempre tentando colocar o mínimo possível e vindo com a lanterna UV para secar.</font></sup>
 
 {:style="text-align:center;"}
-[![](63ed633e-5d21-448a-994a-4fc27e3774e2-thumb.jpg)](63ed633e-5d21-448a-994a-4fc27e3774e2.jpg)
+<a href="63ed633e-5d21-448a-994a-4fc27e3774e2.jpg" target="_blank"><img src="63ed633e-5d21-448a-994a-4fc27e3774e2-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Processo de secagem da máscara. Ficava sempre segurando por uns 3 minutos bem próximo da área</font></sup>
 
 {:style="text-align:center;"}
-[![](20250906-193230-thumb.jpg)](20250906-193230.jpg)
+<a href="20250906-193230.jpg" target="_blank"><img src="20250906-193230-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Aqui uma foto bem de pertinho.</font></sup>
 
 {:style="text-align:center;"}
-[![](20250908-110119-thumb.jpg)](20250908-110119.jpg)
+<a href="20250908-110119.jpg" target="_blank"><img src="20250908-110119-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Tentei colocar no lugar mais discreto possível, mas essa é a chave de liga e desliga para controlar o chip.</font></sup>
@@ -84,7 +84,7 @@ Inicialmente tentei seguir com a ideia daqueles vídeos maravilhosos que o pesso
 Só que sabem aquele negócio de "expectativa X realidade"? Então... esse negócio é difícil pra burro! E ainda mais que a segunda ponta da trilha era muito próximo do terminal, ela vivia soltando! Então após algumas horas tentando e indo ajeitando devagar, consegui um resultado um tanto quanto ok.
 
 {:style="text-align:center;"}
-[![](20250906-193427-thumb.jpg)](20250906-193427.jpg)
+<a href="20250906-193427.jpg" target="_blank"><img src="20250906-193427-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Sei que não é a foto mais bonita, mas essa foi a primeira tentativa.</font></sup>
@@ -98,7 +98,7 @@ Então aproveitei que estava assim, bateu um acesso de raiva arranquei toda essa
 Então fui pelo caminho mais simples:ligar uma ponta a outra, passando por onde deveria estar o pad, e soldar o capacitor no meio. E assim ficou:
 
 {:style="text-align:center;"}
-[![](20250906-210527-thumb.jpg)](20250906-210527.jpg)
+<a href="20250906-210527.jpg" target="_blank"><img src="20250906-210527-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Infelizmente tirei a foto só depois de ter montado ele, então ficou meia torta mesmo.</font></sup>

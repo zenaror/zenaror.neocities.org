@@ -16,7 +16,7 @@ Hoje queria compartilhar minha primeira experiencia com uma técnica chamada "*R
 Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes:
 
 {:style="text-align:center;"}
-[![](img-20250716-wa0004-thumb.jpg)](img-20250716-wa0004.jpg)
+<a href="img-20250716-wa0004.jpg" target="_blank"><img src="img-20250716-wa0004-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Controle antes do Retrobright</font></sup>
@@ -33,7 +33,7 @@ A técnica consiste em:
 E bem, foi só isso que fiz! E olhem como ficou!
 
 {:style="text-align:center;"}
-[![](20250723-222342-thumb.jpg)](20250723-222342.jpg)
+<a href="20250723-222342.jpg" target="_blank"><img src="20250723-222342-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Controle após o Retrobright</font></sup>
@@ -47,7 +47,7 @@ Nos demais controles, por mais que não estivessem tão amarelados assim, deu pa
 Para esses controles não foi o caso. Mas eu tenho também um Gamecube e o painel da frente dele estava bem amarelado, como podem ver na foto abaixo:
 
 {:style="text-align:center;"}
-[![](380430477-10087431811330423-771493546049058943-n-thumb.jpg)](380430477-10087431811330423-771493546049058943-n.jpg)
+<a href="380430477-10087431811330423-771493546049058943-n.jpg" target="_blank"><img src="380430477-10087431811330423-771493546049058943-n-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Nintendo Gamecube que comprei na época.</font></sup>
@@ -55,7 +55,7 @@ Para esses controles não foi o caso. Mas eu tenho também um Gamecube e o paine
 E depois de já calejado dos controles no Nintendo 64, fui tentar também no Gamecube, mas dessa fez fazendo na calma. Demorei 2 dias para fazer isso, pois em um dia fiz 6 sessões e no dia seguinte mais umas 2.
 
 {:style="text-align:center;"}
-[![](20250720-225556-preview-thumb.jpg)](20250720-225556-preview.jpg)
+<a href="20250720-225556-preview.jpg" target="_blank"><img src="20250720-225556-preview-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Sei que não é a melhor foto, mas da para ver o tamanho da diferença</font></sup>

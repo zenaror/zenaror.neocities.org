@@ -20,13 +20,13 @@ Para começar, vamos ver o Famicom e Master System, já que eles eram o únicos 
 Bom, a troca aqui não tem muito segredo, ambos os consoles usam capacitores chamados de THT (ou capacitores de perninhas, igual o Mega Drive. Então aqui não tem muito segredo, é remover a solda, limpar e colocar o novo. Tirando a parte que tive alguns "problemas" durante a troca 😅
 
 {:style="text-align:center;"}
-[![](20251006-215144-thumb.jpg)](20251006-215144.jpg)
+<a href="20251006-215144.jpg" target="_blank"><img src="20251006-215144-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Master System 3 já com a troca feita. Sim, esse console tem uma fonte interna que da todo o peso do console.</font></sup>
 
 {:style="text-align:center;"}
-[![](20251006-215218-thumb.jpg)](20251006-215218.jpg)
+<a href="20251006-215218.jpg" target="_blank"><img src="20251006-215218-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Pequeno acidente no caminho, a ilha da esquerda simplesmente sumiu, mas perfeitamente reparável. Muito cuidado ao mexer com essas placas bem antigas!</font></sup>
@@ -37,13 +37,13 @@ Como podem ver, tem algumas coisinhas a mais na imagem, como o cabo branco, onde
 Vamos agora para o Famicom, onde também tive um pequeno acidente, e aqui as coisas começam a ficar um pouquinho mais chatas!
 
 {:style="text-align:center;"}
-[![](20251011-080824-thumb.jpg)](20251011-080824.jpg)
+<a href="20251011-080824.jpg" target="_blank"><img src="20251011-080824-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Assim como os outros, é basicamente tirar a solda, limpar e colocar o novo capacitor. Mas o problema é essa carcaça metálica enorme no topo!</font></sup>
 
 {:style="text-align:center;"}
-[![](20251011-080844-thumb.jpg)](20251011-080844.jpg)
+<a href="20251011-080844.jpg" target="_blank"><img src="20251011-080844-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Como podem ver, tem um capacitor escondido bem embaixo dela. Então tive que trocar o capacitor sem remover a estrutura (pois daria muito trabalho)</font></sup>
@@ -51,7 +51,7 @@ Vamos agora para o Famicom, onde também tive um pequeno acidente, e aqui as coi
 Como podem ver, aqui ja deu um pouco mais de trabalho, por conta dos capacitores na parte onde fica a estrutura metálica. Eu tentei remover ela no início, mas percebi que eu teria muito mais trabalho tentando remover ela, do que me virar para colocar eles assim mesmo. E foi exatamente o que fiz... até que... sem querer esquentei um ponto que não era de um capacitor, e como diria uma famosa cantora americana: "*Oops!... I Did It Again* - Spears, Britney".
 
 {:style="text-align:center;"}
-[![](chatgpt-1759856760839-thumb.jpg)](chatgpt-1759856760839.jpg)
+<a href="chatgpt-1759856760839.jpg" target="_blank"><img src="chatgpt-1759856760839-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Só que dessa vez foi pior...</font></sup>
@@ -73,7 +73,7 @@ Como disse antes, queria algo que tornasse minhas jogatinas práticas e acessív
 O primeiro é o mais fácil, colocar um conector. Aqui foi tão simples quando remover completamente o fio antigo e soldar um novo com o conector na outra ponta. Quem deu um pouco mais de trabalho aqui foram as fontes do N64 e GameCube. A do N64 pelo fato de ela estar "colada" no outro lado da carcaça (nada que um pouco de álcool isopropílico não resolva) e do GameCube por usar conector na placa, ao invés do cabo de energia soldado direto.
 
 {:style="text-align:center;"}
-[![](20251009-073218-thumb.jpg)](20251009-073218.jpg)
+<a href="20251009-073218.jpg" target="_blank"><img src="20251009-073218-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Fontes já sem o cabo de energia.</font></sup>
@@ -85,20 +85,20 @@ Inicialmente pensei em imprimir uma peça em 3D para reaproveitar o buraco origi
 Então usei a boa e velha cola quente! Que além tem um bom isolante, consegue prender tudo no lugar. Sei que não vai ficar a coisa mais linda do mundo, mas fica funcional e atende minhas necessidades.
 
 {:style="text-align:center;"}
-[![](20251009-095829-thumb.jpg)](20251009-095829.jpg)
+<a href="20251009-095829.jpg" target="_blank"><img src="20251009-095829-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Fontes já com o conector incluso. Como falei, não ficou bonito, mas ficou funcional e sem troca troca de cabos.</font></sup>
 
 {:style="text-align:center;"}
-[![](20251009-073443-thumb.jpg)](20251009-073443.jpg)
+<a href="20251009-073443.jpg" target="_blank"><img src="20251009-073443-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">O mesmo resultado, só que com o Mega Drive 3.</font></sup>
 
 
 {:style="text-align:center;"}
-[![](20251009-073325-thumb.jpg)](20251009-073325.jpg)
+<a href="20251009-073325.jpg" target="_blank"><img src="20251009-073325-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">E agora fiquei com uma coleção de cabos de força 🤣.</font></sup>
@@ -107,7 +107,7 @@ Então usei a boa e velha cola quente! Que além tem um bom isolante, consegue p
 E para encerrar essa parte de energia, queria citar um pequeno "rabicho" que montei para poder alimentar o Super Nintendo/Famicom. A ideia é utilizar a própria fonte do PS2 Slim que tenho para alimentar o console. Sim, ela é totalmente compatível e diria que até mais segura que a própria fonte da época ou fontes paralelas!
 
 {:style="text-align:center;"}
-[![](20251013-093823-thumb.jpg)](20251013-093823.jpg)
+<a href="20251013-093823.jpg" target="_blank"><img src="20251013-093823-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Pequeno cabo Y para poder ligar os consoles. Infelizmente não achei um conector fêmea bonito para a ponta da fonte, então usei um conector de PS One/Slim</font></sup>
@@ -127,7 +127,7 @@ Devo admitir, até que foi bem fácil fazer isso. A parte mais complicada foi ac
 A primeira vítima foi o Master System 3 (pois era o que estava aberto na hora), basicamente segui um [esquema online desse site](https://raelcunha.com/2016/07/29/jornada-retro-sega-master-system/) onde ele mostra como colocar as duas saídas suportadas: RGB (que eu ignorei) e Composto. E o melhor, o próprio chip também processa o áudio! Então já estava tudo no mesmo lugar! Eu fiquei um tanto quanto tentado para fazer a saída de S-Vídeo dele, mas infelizmente onde comprei os componentes estava com o transistor em falta.
 
 {:style="text-align:center;"}
-[![](20251006-134716-thumb.jpg)](20251006-134716.jpg)
+<a href="20251006-134716.jpg" target="_blank"><img src="20251006-134716-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Fios já soldados, sem muita complicação!</font></sup>
@@ -135,7 +135,7 @@ A primeira vítima foi o Master System 3 (pois era o que estava aberto na hora),
 E agora a dúvida, onde deixar a plaquinha de vídeo? Bem, acho que achei o lugar perfeito para ela, do lado do módulo RF!
 
 {:style="text-align:center;"}
-[![](20251006-142251-thumb.jpg)](20251006-142251.jpg)
+<a href="20251006-142251.jpg" target="_blank"><img src="20251006-142251-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">A plaquinha é bem simples! 2 capacitores e um resistor. E um fio direto para o GND.</font></sup>
@@ -143,7 +143,7 @@ E agora a dúvida, onde deixar a plaquinha de vídeo? Bem, acho que achei o luga
 Depois de dar uma ajeitadinha, soldar os fios e por um pouco de fita isolante para evitar possíveis contatos com partes indesejadas e mais um monte de cola quente para prender tudo do lado de fora e isolar a parte de baixo da plaquina, eis o resultado final!
 
 {:style="text-align:center;"}
-[![](20251013-090534-thumb.jpg)](20251013-090534.jpg)
+<a href="20251013-090534.jpg" target="_blank"><img src="20251013-090534-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Resultado final, já com o conector de energia em forma de 8 e o conector de vídeo do... NINTENDO?</font></sup>
@@ -163,27 +163,27 @@ Também tem esse vídeo no youtube que aborda especificamente a minha placa
 Foi bem fácil achar os pontos de solda e juntar tudo. Depois de feio a solda, coloquei um pouco de fita para proteger as conexões
 
  {:style="text-align:center;"}
-[![](20251011-080915-thumb.jpg)](20251011-080915.jpg)
+<a href="20251011-080915.jpg" target="_blank"><img src="20251011-080915-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Tudo soldado e protegido!</font></sup>
 
 {:style="text-align:center;"}
-[![](20251011-080921-thumb.jpg)](20251011-080921.jpg)
+<a href="20251011-080921.jpg" target="_blank"><img src="20251011-080921-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Plaquinha já montada!</font></sup>
 
 
 {:style="text-align:center;"}
-[![](20251013-094820-thumb.jpg)](20251013-094820.jpg)
+<a href="20251013-094820.jpg" target="_blank"><img src="20251013-094820-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Foi difícil, mas achei um cantinho para esconder ela. E assim como no Master System, coloquei um pouco de fita isolante em volta para evitar contatos indesejados.</font></sup>
 
 
 {:style="text-align:center;"}
-[![](20251013-081726-thumb.jpg)](20251013-081726.jpg)
+<a href="20251013-081726.jpg" target="_blank"><img src="20251013-081726-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">E por fim, o conector devidamente instalado! Note que aproveitei o lugar onde passa o fio do Controle 1 para passar o fio do vídeo junto!</font></sup>
@@ -191,7 +191,7 @@ Foi bem fácil achar os pontos de solda e juntar tudo. Depois de feio a solda, c
 Um detalhe importante nesses mods, é que ambos os consoles só tem som MONO!, ou seja, vai sair som só por um lado. Para isso, fiz um pequeno jumper nos pinos de áudio! Então o mesmo som vai sair nos dois canais de áuido, similar ao que fiz no Mega Drive na postagem anterior.
 
 {:style="text-align:center;"}
-[![](20251009-214728-thumb.jpg)](20251009-214728.jpg)
+<a href="20251009-214728.jpg" target="_blank"><img src="20251009-214728-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Jumper feitos! aproveitei também e fiz um jumper no GND só por garantia.</font></sup>
@@ -201,7 +201,7 @@ Feito SÓ TUDO ISSO, nessa saga de alguns posts, posso dizer que estou bem satis
 E para os cabos de vídeo, agora consigo usar todos consoles no meu upscaler Retrotink 5x Pro! Criei basicamente um perfil genérico para poder atender todos sem nenhuma preocupação!
 
 {:style="text-align:center;"}
-[![](gif-consoles.gif)](gif-consoles.gif)
+<a href="gif-consoles.gif" target="_blank"><img src="gif-consoles.gif" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Mostrando como ficou tudo no final! Todos são alimentados pela mesma fonte (ou pelo cabo em forma de 8) e por 3 cabos de vídeo que funcionam em todos os consoles.</font></sup>
