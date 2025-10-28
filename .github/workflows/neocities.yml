@@ -20,7 +20,8 @@ jobs:
       # Instala Jekyll e dependências
       - name: Install Jekyll dependencies
         run: |
-          gem install bundler
+          gem install bundler --user-install
+          export PATH="$HOME/.gem/ruby/3.2.0/bin:$PATH"
           bundle install
 
       # Gera o site na pasta _site
