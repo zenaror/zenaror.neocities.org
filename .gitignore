@@ -1,0 +1,5 @@
+_site/*
+admin/*
+.jekyll-cache/*
+docker-compose.yml
+Gemfile.lock

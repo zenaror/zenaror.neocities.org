@@ -1,0 +1,149 @@
+---
+layout: layout-main
+---
+
+<tr>
+	<td valign="top" width="341">
+	<!-- MSCellType="ContentBody" -->
+	<!-- Bem vindos -->
+		<div align="center" style="width: 90%; margin: 0 auto;">
+			<div style="display: inline-block;">
+				<table border="1">
+					<!-- MSTableType="nolayout" -->
+					<tr>
+						<td bgcolor="#3366cc">
+						<p align="center"><b><font size="7" color="#FFFFFF">
+						Bem-vindos!</font></b></p>
+						</td>
+					</tr>
+					<tr>
+						<td background="/imagens/recursos/bgwhite.png">
+							<p align="center"><font size="4">Sejam bem-vindos a 
+							minha página!
+							</font></p>
+							<p align="center"><font size="4">Aqui você vai encontrar 
+							um pouco de tudo que eu gosto, desde nerdisse, até 
+							projetos e provavelmente algumas coisas aleatórias que 
+							me agradam.</font></p>
+							<p align="center"><font size="4">Talvez, assim como eu, 
+							você possa aprender algo com as coisas que coloco aqui! 
+							Se quiser ficar por dentro, pode me
+							<a target="_blank" href="https://neocities.org/site/zenaror">
+							<b>seguir no Neocities</b></a>.</font></p>
+							<p align="center"><font size="4">Se quiser, pode também 
+							assinar o livro de visitas, no fim da página. Toda 
+							mensagem será muito bem vinda!</font></p>
+							<p align="center">
+								<img src="/imagens/recursos/banners/bestviewedcomp.gif" width="88" height="31" />
+								<img border="0" src="/imagens/recursos/banners/msfrontpage.gif" width="88" height="31" />
+								
+								<a href="https://www.linkedin.com/in/rafael-zenaro" target="_blank"><img border="0" src="/imagens/recursos/banners/linkedin.png" width="88" height="31" /></a>
+								<a href="https://github.com/zenaror/" target="_blank"><img border="0" src="/imagens/recursos/banners/github.gif" width="88" height="31" /></a>
+								<a href="msnim:add?contact=zenaror@escargot.chat" target="_blank"><img border="0" src="/imagens/recursos/banners/mslive.gif" width="88" height="31" /></a>
+							</p>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		
+		<hr size="5" noshade />
+		<!-- Sobre -->
+		 <div align="center" style="width: 90%; margin: 0 auto;">
+			<div style="display: inline-block;">
+				<div style="width:850; float: left; margin: 10px;">
+					<table border="1" width="100%">
+						<!-- MSTableType="nolayout" -->
+						<tr>
+							<td bgcolor="#3366cc">
+							<p align="center"><b><font size="7" color="#FFFFFF">
+							Sobre mim</font></b></p>
+							</td>
+						</tr>
+						<tr>
+							<td background="/imagens/recursos/bgwhite.png"><span>
+							<img border="0" src="/imagens/recursos/avatar.png" width="150" height="153" align="left" /></span><font size="4"><span>Olá 
+							pessoas! <br />
+							<br />
+							Meu nome é Rafael, nasci em 1993 e sou de São Paulo. 
+							Agora façam a conta para saber quantos anos tenho 
+							hehehehe!<br />
+							<br />
+							Desde pequeno gosto de fuçar nas coisas (e normalmente 
+							sempre quebro algo no caminho). Sempre gostei de 
+							tecnologia no geral. Já fui fissurado, mas atualmente 
+							(para muita coisa) se tiver funcionando, ta ótimo!<br />
+							<br />
+							Tenho um pequeno servidor doméstico, onde mantenho 
+							alguns serviços como servidor de jogos privados, alguns 
+							serviços locais e qualquer outra gambiarra!<br />
+							<br />
+							Também me interesso por programação, automações e, vez 
+							ou outra, invento moda com meus video-games antigos.<br />
+							<br />
+							Se quiser saber um um pouco mais sobre mim, visite a sessão <a href="/sobre.html" target="main"><b>SOBRE MIM</b></a></span></font>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div style="width:500; float: left; margin: 10px;">
+					<!-- Posts Recentes -->
+					<table border="1" width="100%">
+						<tr>
+							<td bgcolor="#3366cc">
+							<p align="center"><b><font size="7" color="#FFFFFF">
+							Últimas postagens</font></b></p>
+							</td>
+						</tr>
+						<tr>
+							<td background="/imagens/recursos/bgwhite.png">
+								<ul>
+								{% for post in site.posts limit:5 %}
+									<li>
+										{% if forloop.first %}<span><img src="/imagens/recursos/new.gif" /></span>{% endif %}
+										<a href="{{ post.url }}">{{ post.title }}</a>										
+									</li>
+								{% endfor %}
+								</ul>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		 </div>
+
+		<hr size="5" noshade />
+
+		<!-- Livro de visitas -->
+		<div align="center" style="width: 90%; margin: 0 auto;">
+			<div style="display: inline-block;">
+				<table border="1">
+					<tr>
+						<td bgcolor="#3366cc">
+						<p align="center"><b><font size="7" color="#FFFFFF">
+						Livro de visitas</font></b></p>
+						</td>
+					</tr>
+					<tr>
+						<td background="/imagens/recursos/bgwhite.png">
+						<div align="center">
+							<span><font size="4">Gostou do site? Quer deixar um 
+							recado, um elogio, reclamação, ou qualquer coisa? </font></span>
+						</div>
+						<div align="center">
+							<span><font size="4">Deixe uma mensagem no livro de 
+							visitas!</font><font></font></span></div>
+						<div align="center">
+							<span class="gs_tkn"><strong style="font-weight: 400">
+							<span><font size="4">Compartilhe sua opinião comigo 
+							e com os outros!</font></span></strong></span></div>
+						<div align="center">
+							<iframe src="http://users3.smartgb.com/g/g.php?a=s&i=g36-39724-ce" name="I1" height="710" width="520" align="middle" style="border:2px solid black;" frameborder="1"></iframe>
+						</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</td>
+</tr>

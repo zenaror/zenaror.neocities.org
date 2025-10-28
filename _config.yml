@@ -1,0 +1,20 @@
+title: Blog do Rafael
+description: Meu blog pessoal. Aqui falo sobre tecnologia, games retrô e tutoriais e tudo o que me der na telha!
+author: Rafael Zenaro de Oliveira
+baseurl: ""
+url: "https://zenaror.neocities.org"
+lang: "pt-BR"
+excerpt_separator: <!--more-->
+timezone: America/Sao_Paulo
+markdown: kramdown
+permalink: /blog/posts/:year/:month/:day/:title
+paginate_path: "/blog/page:num/"
+paginate: 15  # Quantidade de posts por página
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-json-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+exclude:
+  - docker-compose.yml
