@@ -18,16 +18,16 @@ Mas vamos lá, tudo começou quando minha esposa pediu para jogar Super Mario Wo
 Então testei outras fitas, vai que eu tinha feito alguma caca na hora do recap e... todas as minhas outras fitas funcionaram! Então fui abrir o cartucho do Super Mario para ver se tinha algum dano nele, como uma trilha rompida, um capacitor vazado, sei lá.
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/26/chatgpt-1756038171114-thumb.jpg)](/assets/uploads/2025/08/26/chatgpt-1756038171114.jpg)
+[![](chatgpt-1756038171114-thumb.jpg)](chatgpt-1756038171114.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Parte da frentedo cartucho</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Parte da frentedo cartucho</font></sup>
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/26/chatgpt-1756038159291-thumb.jpg)](/assets/uploads/2025/08/26/chatgpt-1756038159291.jpg)
+[![](chatgpt-1756038159291-thumb.jpg)](chatgpt-1756038159291.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Parte de trás do cartucho</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Parte de trás do cartucho</font></sup>
 
 Infelizmente essa foto eu tirei depois já de ter tentado refazer a solda dos componentes e sem sucesso ainda. Mas uma coisa qui me chamou atenção... **Onde caceta está o CIC (U4)!?🤔** Todo jogo de Super Nintendo, pirata ou não, por via de regra TEM QUE TER UM CIC! Ele é a trava de pirataria do jogo. E justamente em uma fita original, que veio com meu vídeo-game, não ter esse chip!?🤔
 
@@ -43,10 +43,10 @@ Então abri meu console e olhei... e olhei... e olhei... e não achei nada suspe
 Foi ai que mudei minha pesquisa e comecei a pesquisar sobre como era feito o desbloqueio do SNES e de modificados daquela época. Até que me deparei com esse tópico no Reddit, que [tinha uma particularidade muito semelhante](https://www.reddit.com/r/retrogaming/comments/j9qtsb/hi_so_i_have_this_snes_snscpugpm02_the_video/), o chip do CIC do console tinha EXATAMENTE a mesma "marca" que o meu, que [pode ser vista nessa foto](https://github.com/zenaror/Anotacoes-Consoles-Retro/tree/main/Nintendo/Super%20Nintendo) que tirei quando abri o console pela primeira vez.
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/26/screenshot-20250825-135415-firefox-thumb.jpg)](/assets/uploads/2025/08/26/screenshot-20250825-135415-firefox.jpg)
+[![](screenshot-20250825-135415-firefox-thumb.jpg)](screenshot-20250825-135415-firefox.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Zoom do chip CIC do meu console antes do recap, notem que ele tem a mesma "marca", circulada em azul, do chip da postagem do Reddit</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Zoom do chip CIC do meu console antes do recap, notem que ele tem a mesma "marca", circulada em azul, do chip da postagem do Reddit</font></sup>
 
 Foi aqui que notei... isso não é uma marca... **É A PORCARIA DA PERNA/PINO DO CHIP QUE LEVANTARAM!🤬** E para ajudar, quando fui fazer o recap, não me atentei a isso. achei que fosse alguma farpa de metal, uma solda mal feita, sei lá eu... mas eu notei que era um pouco mais duro que o normal e consegui abaixar novamente a perna e fazer contato com a trilha devida. E o que aconteceu? Meu console ficou bloqueado novamente!
 
@@ -57,11 +57,11 @@ O fato do console ter o chip CIC desabilitado, permitia que qualquer jogo rodass
 E qual o problema nisso? Sinceramente nenhum, em partes... até a Nintendo começar a lançar chips, como o S-DD1 e SA1,  que verificavam a presença desse bendito (aliás isso foi o que melhorou a trava de segurança do N64). Tudo bem que não são muitos jogos que realmente faziam isso, meu Super Mario Kart usa o DSP-1 e ele roda normalmente. Porém vai lá tentar comprar um "Super Mario RPG" para ver se você vai conseguir jogar. Provavelmente hoje, na era dos "Everdrive" isso não importe muito, mas para alguém que coleciona ou quer jogar da fita original, isso pode ser um problemão!
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/26/fx-thumb.jpg)](/assets/uploads/2025/08/26/fx.jpg)
+[![](fx-thumb.jpg)](fx.jpg)
 
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Foto do FxPak Pro (antigo SD2SNES). Ele já possui o Super CIC internamente. Além de suportar quase todos chips especiais do SNES.</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Foto do FxPak Pro (antigo SD2SNES). Ele já possui o Super CIC internamente. Além de suportar quase todos chips especiais do SNES.</font></sup>
 
 Não sei na época, mas hoje é bem comum você achar pessoas que ligavam uma chave seletora nesse pino levantado para ligar e desligar esse chip quando necessário, permitindo jogar esse jogos que exigiam a presença do CIC no console. Por sorte no meu console a perna estava apenas levantada, seria fácil fazer esse ajuste, mas achei relatos de consoles com esse pino cortado.
 
@@ -73,11 +73,11 @@ Então utilizei meu último recurso, tentar desbastar o encapsulamento bem onde 
 com muito cuidado para não danificar nada por dentro e nem tirar mais do que eu deveria. Então depois de uma meia hora, finalmente consegui um pouquinho mais de área de contato. Então passei mais algumas horas para tentar fazer a ponte, até que finalmente consegui 😍
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/26/20250826-104753-thumb.jpg)](/assets/uploads/2025/08/26/20250826-104753.jpg)
+[![](20250826-104753-thumb.jpg)](20250826-104753.jpg)
 
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Depois que 1 dia todo de trabalho, eis que consegui refazer!</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Depois que 1 dia todo de trabalho, eis que consegui refazer!</font></sup>
 
 Agora o console voltou a ser "de fábrica", infelizmente meu Super Mario não funciona mais por conta disso, mas todas as outras fitas sim. Porém esse reparo ainda não terminou, essa solda ficou extremamente sensível, vou comprar uma máscara de solda e uma luz UV para dar um acabamento nisso e ficar preso por definitivo! Além de proteger a emenda. Quanto ao Mario, como falei, futuramente vou instalar um SuperCIC nele, para que ele volte a funcionar.
 

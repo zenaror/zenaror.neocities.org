@@ -16,10 +16,10 @@ Hoje queria compartilhar minha primeira experiencia com uma técnica chamada "*R
 Mas enfim, deem uma olhada em como estava meus controles de Nintendo 64 antes:
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/11/img-20250716-wa0004-thumb.jpg)](/assets/uploads/2025/08/11/img-20250716-wa0004.jpg)
+[![](img-20250716-wa0004-thumb.jpg)](img-20250716-wa0004.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Controle antes do Retrobright</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Controle antes do Retrobright</font></sup>
 
 A técnica consiste em: 
 * Primeira coisa óbvia... Lavar com água morna e detergente neutro sua peça!
@@ -33,10 +33,10 @@ A técnica consiste em:
 E bem, foi só isso que fiz! E olhem como ficou!
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/11/20250723-222342-thumb.jpg)](/assets/uploads/2025/08/11/20250723-222342.jpg)
+[![](20250723-222342-thumb.jpg)](20250723-222342.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Controle após o Retrobright</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Controle após o Retrobright</font></sup>
 
 Como podem vem um deles ficou bem manchado. Esse foi o primeiro que eu fiz. Ele era o mais amarelado na foto anterior. Uma dica que posso dar aqui é: Não exagere e faça com calma! Uma vez que mancha, não da para voltar atrás!
 
@@ -47,18 +47,18 @@ Nos demais controles, por mais que não estivessem tão amarelados assim, deu pa
 Para esses controles não foi o caso. Mas eu tenho também um Gamecube e o painel da frente dele estava bem amarelado, como podem ver na foto abaixo:
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/11/380430477-10087431811330423-771493546049058943-n-thumb.jpg)](/assets/uploads/2025/08/11/380430477-10087431811330423-771493546049058943-n.jpg)
+[![](380430477-10087431811330423-771493546049058943-n-thumb.jpg)](380430477-10087431811330423-771493546049058943-n.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Nintendo Gamecube que comprei na época.</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Nintendo Gamecube que comprei na época.</font></sup>
 
 E depois de já calejado dos controles no Nintendo 64, fui tentar também no Gamecube, mas dessa fez fazendo na calma. Demorei 2 dias para fazer isso, pois em um dia fiz 6 sessões e no dia seguinte mais umas 2.
 
 {:style="text-align:center;"}
-[![](/assets/uploads/2025/08/11/20250720-225556-preview-thumb.jpg)](/assets/uploads/2025/08/11/20250720-225556-preview.jpg)
+[![](20250720-225556-preview-thumb.jpg)](20250720-225556-preview.jpg)
 
 {:style="text-align:center;"}
-<sup><font color="#C0C0C0">Sei que não é a melhor foto, mas da para ver o tamanho da diferença</font></sup>
+<sup><font style="background-color: #123524;" color="#C0C0C0">Sei que não é a melhor foto, mas da para ver o tamanho da diferença</font></sup>
 
 Sei que tem muitos vídeos lá fora com gente derramando a solução pura (Peróxido de hidrogênio) e deixando na luz UV direto em um recipiente e N outras receitas. Não sei vocês, mas eu tenho isso como um hobby e acho que meu fascínio não chega nesse nível. Preferi um caminho fácil, simples e barato. Mas como qualquer coisa na vida, exige calma e paciência. Você não precisa gastar rios de dinheiro e nem ser fazer quase um teste para o Breaking Bad.
 
