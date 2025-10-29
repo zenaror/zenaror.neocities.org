@@ -1,0 +1,21 @@
+/* contêiner da faixa de texto */
+.mrqWrap {
+    width: 100%;             /* largura visível do scroll */
+    overflow: hidden;        /* esconde o texto que sai da área */
+    position: relative;      /* base para posicionamento do texto */
+    white-space: nowrap;     /* mantém tudo em uma linha */ 
+    min-height: 1.2em; /* um pouco maior que 1em para não cortar as descidas */
+    padding-bottom: 2px; /* opcional, garante espaço extra */
+}
+
+/* texto interno que vai rolar */
+.mrqInner {
+    position: absolute;
+    left: 100%;              /* inicia fora à direita do contêiner */
+    top: 0;                  /* alinhamento vertical */
+    line-height: 50px;       /* centraliza verticalmente */
+}
+
+.mrqWrap.footer .mrqInner {
+    line-height: normal;       /* centraliza verticalmente */
+}

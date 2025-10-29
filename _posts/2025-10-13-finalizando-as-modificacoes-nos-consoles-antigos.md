@@ -51,7 +51,7 @@ Vamos agora para o Famicom, onde também tive um pequeno acidente, e aqui as coi
 Como podem ver, aqui ja deu um pouco mais de trabalho, por conta dos capacitores na parte onde fica a estrutura metálica. Eu tentei remover ela no início, mas percebi que eu teria muito mais trabalho tentando remover ela, do que me virar para colocar eles assim mesmo. E foi exatamente o que fiz... até que... sem querer esquentei um ponto que não era de um capacitor, e como diria uma famosa cantora americana: "*Oops!... I Did It Again* - Spears, Britney".
 
 {:style="text-align:center;"}
-<a href="chatgpt-1759856760839.jpg" target="_blank"><img src="chatgpt-1759856760839-thumb.jpg" alt=""></a>
+<a href="1759856760839.jpg" target="_blank"><img src="1759856760839-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Só que dessa vez foi pior...</font></sup>

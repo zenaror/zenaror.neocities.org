@@ -3,7 +3,7 @@ layout: layout-posts
 title: "A pirataria no Super Nintendo: Coisas para se descobrir 35 anos depois do seu lançamento."
 date: 2025-08-26 08:53:34 -0300
 permalink: /blog/posts/2025/08/26/a-pirataria-no-super-nintendo-coisas-para-se-descobrir-35-anos-depois-do-seu-lancamento
-thumbnail: /assets/uploads/2025/08/26/chatgpt-1756038159291-thumb.jpg
+thumbnail: /assets/uploads/2025/08/26/1756038159291-thumb.jpg
 tags: [SNES, Super Nintendo, desbloqueio, pirataria, reparo, jogos piratas, chip CIC, CIC, retro gaming, história dos games, Paraguai, Brasil, consoles antigos, colecionismo, curiosidades]
 ---
 
@@ -18,13 +18,13 @@ Mas vamos lá, tudo começou quando minha esposa pediu para jogar Super Mario Wo
 Então testei outras fitas, vai que eu tinha feito alguma caca na hora do recap e... todas as minhas outras fitas funcionaram! Então fui abrir o cartucho do Super Mario para ver se tinha algum dano nele, como uma trilha rompida, um capacitor vazado, sei lá.
 
 {:style="text-align:center;"}
-<a href="chatgpt-1756038171114.jpg" target="_blank"><img src="chatgpt-1756038171114-thumb.jpg" alt=""></a>
+<a href="1756038171114.jpg" target="_blank"><img src="1756038171114-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Parte da frentedo cartucho</font></sup>
 
 {:style="text-align:center;"}
-<a href="chatgpt-1756038159291.jpg" target="_blank"><img src="chatgpt-1756038159291-thumb.jpg" alt=""></a>
+<a href="1756038159291.jpg" target="_blank"><img src="1756038159291-thumb.jpg" alt=""></a>
 
 {:style="text-align:center;"}
 <sup><font style="background-color: #123524;" color="#C0C0C0">Parte de trás do cartucho</font></sup>
