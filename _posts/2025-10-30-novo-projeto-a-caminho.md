@@ -74,6 +74,7 @@ Para isso, vou precisar pensar em algumas coisas:
 - Uma forma de reconstruir o espelho de I/O, para ter acesso as portas do Mini PC.
 - Uma forma de colocar meu switch KVM dentro e disponibilizar acesso as saídas dele também, já que quero usar ele de monitor externo para trabalhar.
 - Caixas de som e os conectores de Fone e Som P2 que ele tinha.
+- Um drive de CD/DVD (provavelmente não vou conseguir reaproveitar o espelho original).
 - Uma forma de prender tudo no lugar, nem que seja na base da cola quente.
 - Um conector fêmea de fonte de computador, já que na parte de trás ele tem espaço para tal.
 - Provavelmente algumas fontes externas e umas gambiarras para ligar e alimentar tudo!
